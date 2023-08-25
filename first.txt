@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 first practice , trying for push
+=======
+first git practice
+first git practice from pp
+>>>>>>> 5d7eb6fda38a2e1cbf37ea0b4949138f2a6cc1c1
